@@ -1,0 +1,42 @@
+.r{
+  border: 10px solid orange;
+}
+.p{
+border: 10px solid rgba(245, 245, 245, 0.74);
+}
+.s{
+border: 10px solid green;
+}
+marquee{
+  margin-top: 50px;
+}
+.chances{
+  margin-left: 545px;
+  margin-right: 545px;
+  margin-top: 40px;
+}
+.size{
+margin-left: 278px;
+    margin-top: 0px;
+    margin-right: 278px;
+}
+.js-score{
+      margin-left: 450px;
+    margin-right: 470px;
+    background-color: #dfe8eb;
+}
+.rst{
+      margin-left: 630px;
+    margin-right: 650px;
+}
+footer{
+  margin-left: 470px;
+    margin-right: 513px;
+}
+.personal{
+margin-left: 100px;
+}
+body{
+  background-color: palegoldenrod;
+  background-image: url('https://cdn.vectorstock.com/i/1000v/28/05/abstract-blue-swirls-background-vector-2352805.jpg');
+background-size: 100%;}
